@@ -1,0 +1,12 @@
+/*Fonte importada pelo Google Fonts*/
+
+@import url("https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap");
+
+h1 {
+  font-family: monospace;
+}
+
+p {
+  font-family: "Bona Nova SC";
+  font-weight: lighter;
+}

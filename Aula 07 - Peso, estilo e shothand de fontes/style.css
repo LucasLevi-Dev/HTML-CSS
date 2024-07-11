@@ -1,0 +1,20 @@
+body {
+  /*Define o estilo da fonte*/
+  /* Uma fonte comum não tem peso, apenas a versão magrinha*/
+  /*Define o tamanho da fonte ->
+  
+  -Medidas absolutas:
+    -cm,mm,in,px,pt,pc
+
+  -Medidas relativas:;
+    -em, ex, rem, vw, vh, %
+
+  -Recomendação:
+    -Utilizar o "em" e o "px" pelos W3C, docs: https://www.w3schools.com/css/css_font_size.asp
+    - "16" px: Fonte tamanho normal
+    - "1" Em: fonte tamanho normal
+    - Ou seja, 16px = 1em. 32px = 2em.
+  */
+  font-size: 15px;
+  font: italic bolder 3em sans-serif;
+}

@@ -1,0 +1,16 @@
+/*Configurando o design do texto:*/
+body {
+  font: normal 16px arial, Verdana, serif;
+}
+
+/*Alinhando os textos:*/
+
+h1,
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  text-indent: 35px;
+}

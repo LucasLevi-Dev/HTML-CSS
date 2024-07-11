@@ -1,0 +1,16 @@
+/*Fonte baixadas*/
+
+@font-face {
+  font-family: "Briston";
+  src: url(fonts/Briston.ttf) format("truetype");
+}
+
+h1 {
+  font-family: monospace;
+}
+
+/*Utilizando essa fonte!*/
+p {
+  font-family: "Briston";
+  font-weight: lighter;
+}

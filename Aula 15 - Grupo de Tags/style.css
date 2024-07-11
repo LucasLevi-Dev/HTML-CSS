@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background-color: gray;
+}
+
+main {
+  background-color: red;
+}
+
+header {
+  background-color: rgb(145, 144, 144);
+}
+
+section {
+  background-color: blue;
+}
+nav {
+  background-color: lightgray;
+  font-family: sans-serif;
+}
+
+nav > a {
+  font-style: bold;
+  text-decoration: none;
+  margin-right: 30px;
+  color: white;
+}
+
+nav > a:hover {
+  text-decoration: underline;
+}
